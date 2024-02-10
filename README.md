@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hey, I'm Rita 👋
 
-<!--
-**RitaGr/RitaGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year old Junior Frontend Developer based in Israel. I'm also a first year BSc student of Mathematics and Computer science.
 
+###Skills
+**Frontend Languages :** `HTML` `CSS` `JavaScript`
+**Frameworks and Libraries:** `React` `jQuery` `SASS` `Bootstrap`
+**Others :** `Java` `Python` 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
