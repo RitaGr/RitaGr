@@ -8,6 +8,11 @@ I'm a 21-year old Junior Frontend Developer based in Israel. I'm also a first ye
 **Frameworks and Libraries :** `React` `jQuery` `SASS` `Bootstrap`
 
 **Others :** `Java` `Python` 
+# :love_letter: Hobbies 
+* :books: Reading Books
+* :video_game: Video Games
+* :computer: Programming
+* :mortar_board: Math
 
 
 
