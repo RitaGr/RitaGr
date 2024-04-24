@@ -13,6 +13,7 @@ I'm a 21-year old Junior Frontend Developer based in Israel. I'm also a first ye
 * :video_game: Video Games
 * :computer: Programming
 * :mortar_board: Math
+* Languages
 
 
 
