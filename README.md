@@ -1,7 +1,7 @@
 ### Hey, I'm Rita 👋
 
-I'm a 22-year old self-taught Junior Frontend Developer based in Israel. 
-Currently a BSc student of Mathematics and Computer Science.
+I'm a 22-year old self-taught Junior Frontend Developer with understanding of UI/UX, based in Israel.
+Currently a BSc student of Mathematics.
 
 # :hammer: Skills
 **Frontend Languages :** `HTML` `CSS` `JavaScript`
@@ -10,7 +10,8 @@ Currently a BSc student of Mathematics and Computer Science.
 
 **UI / UX :** `Figma`
 
-**Others :** `Java` `Python` `C#` `C`
+**Spoken Languages:** `English` `Hebrew` `Russian` `Ukrainian` `Norwegian`
+
 # :love_letter: Hobbies 
 * :books: Reading Books
 * :video_game: Video Games
