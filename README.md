@@ -7,7 +7,7 @@ Currently a BSc student of Pure Mathematics.
 
 **Languages :** `Python`
 
-**Libraries :** `pandas` `numpy` `matplotlib` `numpy` `scipy`
+**Libraries :** `pandas` `numpy` `matplotlib` `numpy` `scipy` `seaborn`
 
 **Tools :** `Excel`
 
